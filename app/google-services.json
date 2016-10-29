@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "585665144517",
+    "firebase_url": "https://chatfirebase-83e36.firebaseio.com",
+    "project_id": "chatfirebase-83e36",
+    "storage_bucket": "chatfirebase-83e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585665144517:android:8ddc633b4ad02505",
+        "android_client_info": {
+          "package_name": "edu.galileo.andriod.appfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585665144517-gk4lpkcvore6777em5ak3ojftro28i4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkc9C8Gwn9tyUgpiWlD_cuY41zBCzQrwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
